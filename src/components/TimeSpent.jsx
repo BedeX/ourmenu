@@ -6,7 +6,6 @@ export const TimeSpent = () => {
     const [timeSpent, setTimeSpent] = useState(0)
 
     useEffect(() => {
-        console.log(timeSpent);
         const timer = setTimeout(() => setTimeSpent(prev => prev + 1), 1000)
 
         return () => {
