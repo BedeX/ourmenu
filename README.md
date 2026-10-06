@@ -1,2 +1,4 @@
 ## React - Ourmenu
-https://github.com/BedeX/ourmenu
+- [github repo](https://github.com/BedeX/ourmenu)  
+
+-[netlify](https://ourmenujsz.netlify.app/)
